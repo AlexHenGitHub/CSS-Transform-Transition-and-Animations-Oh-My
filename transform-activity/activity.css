@@ -1,3 +1,7 @@
 main {
 
+
+    /*titled the image*/
+    transform: skew(30deg, 155deg);
+
 }
